@@ -1,0 +1,3 @@
+CLASSES = {'navigate': 0, 'schedule': 1, 'weather': 2,
+               "police": 3, "hospital": 4, 'restaurant': 5,
+               'hotel': 6, 'attraction': 7, 'taxi': 8, 'train': 9}
